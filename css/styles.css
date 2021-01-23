@@ -6,14 +6,12 @@
       width: 5%;
     }
     body {
+      font-family: "Sofia", sans-serif;
       background-color: #222831;
       color: white;
     }
     .profile_pic {
       border-radius: 100%
-    }
-    .cv-title {
-      font-family: "Sofia", sans-serif;
     }
     div {
       background-color: #252525;
