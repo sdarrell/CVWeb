@@ -30,3 +30,6 @@
     .cv-title {
       font-family: "Sofia", sans-serif;
     }
+    div {
+      border-radius: 25px;
+    }
