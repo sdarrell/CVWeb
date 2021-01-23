@@ -12,24 +12,12 @@
     .profile_pic {
       border-radius: 100%
     }
-    .employment {
-      background-color: #654062;
-      margin-right: 200px;
-      margin-left: 200px;
-    }
-    .education {
-      background-color: #654062;
-      margin-right: 200px;
-      margin-left: 200px;
-    }
-    .personal-proj {
-      background-color: #654062;
-      margin-right: 200px;
-      margin-left: 200px;
-    }
     .cv-title {
       font-family: "Sofia", sans-serif;
     }
     div {
+      background-color: #654062;
+      margin-right: 200px;
+      margin-left: 200px;
       border-radius: 25px;
     }
