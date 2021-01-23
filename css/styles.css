@@ -12,3 +12,12 @@
     .profile_pic {
       border-radius: 100%
     }
+    .employment {
+      background-color: #726a95;
+    }
+    .education {
+      background-color: #c1a1d3;
+    }
+    .personal-proj {
+      background-color: #e9b0df;
+    }
