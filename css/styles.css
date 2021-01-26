@@ -17,8 +17,9 @@
     }
     .profile_pic {
       border-radius: 100%;
+      width: 400px;
+      height: 400px;
     }
     div {
       background-color: #252525;
       border-radius: 25px;
-    }
