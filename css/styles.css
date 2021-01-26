@@ -14,12 +14,11 @@
       font-family: "Sofia", sans-serif;
       background-color: #222831;
       color: white;
-      margin-right: 200px;
-      margin-left: 200px;
+      margin-right: 400px;
+      margin-left: 400px;
     }
     .profile_pic {
       border-radius: 100%;
-      margin-left: 200px
     }
     div {
       background-color: #252525;
