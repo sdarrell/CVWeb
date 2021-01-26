@@ -8,15 +8,16 @@
     head {
       margin: auto;
       font-family: 'Sofia', cursive;
+      margin-left: 200px;
+      margin-right: 200px;
     }
     body {
       font-family: "Sofia", sans-serif;
       background-color: #222831;
       color: white;
-      margin: auto;
     }
     .profile_pic {
-      border-radius: 100%
+      border-radius: 100%;
     }
     div {
       background-color: #252525;
