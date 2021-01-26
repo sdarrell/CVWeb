@@ -7,8 +7,6 @@
     }
     head {
       font-family: 'Sofia', cursive;
-      margin-left: 200px;
-      margin-right: 200px;
     }
     body {
       font-family: "Sofia", sans-serif;
@@ -16,6 +14,11 @@
       color: white;
       margin-right: 400px;
       margin-left: 400px;
+    }
+    .intro {
+      font-size: 5.6rem;
+      width: 9rem;
+      height: 9rem;
     }
     .profile_pic {
       border-radius: 100%;
