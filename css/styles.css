@@ -12,8 +12,8 @@
       font-family: "Sofia", sans-serif;
       background-color: #222831;
       color: white;
-      margin-right: 25rem;
-      margin-left: 25rem;
+      width: 50%;
+      margin: auto;
     }
     .cv-title {
       font-size: 60px;
