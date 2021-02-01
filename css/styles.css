@@ -27,7 +27,7 @@
       height: 250px;
     }
     .women-programmer {
-      margin-left: 100px;
+      align-self: center;
     }
     .summary {
       font-size: 30px;
