@@ -21,9 +21,8 @@
       border-radius: 100%;
       margin-top: 40px;
       margin-right: 40px;
-      width: 250px;
-      height: 250px;
-      float: left;
+      width: 200px;
+      height: 200px;
     }
     .women-programmer {
       align-items: center;
@@ -31,7 +30,13 @@
     .summary {
       font-size: 25px;
       font-family: 'Londrina Solid', sans-serif;
-      margin: 50px auto auto auto;
+      margin: 40px auto auto auto;
+    }
+    .flower_img {
+      height: 300px;
+      width: 300px;
+      margin-left: 50px;
+      align-items: center;
     }
     div {
       background-color: #252525;
