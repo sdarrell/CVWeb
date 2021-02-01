@@ -13,7 +13,7 @@
       background-color: #222831;
       color: white;
       width: 50%;
-      margin: auto;
+      margin: 50px auto auto auto;
     }
     .cv-title {
       font-size: 60px;
@@ -29,10 +29,10 @@
       float: left;
     }
     .women-programmer {
-      align-self: center;
+      align-items: center;
     }
     .summary {
-      font-size: 20px;
+      font-size: 25px;
       margin: auto;
     }
     div {
