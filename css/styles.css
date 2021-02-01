@@ -5,17 +5,14 @@
       border-width: 0 0 9px;
       width: 10%;
     }
-    head {
-      font-family: 'Sofia', cursive;
-    }
     body {
-      font-family: "Sofia", sans-serif;
       background-color: #222831;
       color: white;
       width: 50%;
-      margin: 50px auto auto auto;
+      margin: 100px auto auto auto;
     }
     .cv-title {
+      font-family: "Sofia", sans-serif;
       font-size: 60px;
       text-align: center;
       margin: auto;
@@ -33,7 +30,8 @@
     }
     .summary {
       font-size: 25px;
-      margin: auto;
+      font-family: 'Londrina Solid', sans-serif;
+      margin: 50px auto auto auto;
     }
     div {
       background-color: #252525;
