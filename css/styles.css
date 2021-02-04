@@ -46,7 +46,7 @@
       width: 300px;
       margin-left: 150px;
     }
-    .BUTTON_LTR {
+    .contact-me-button {
       background: #E8B8DE;
       background-image: -webkit-linear-gradient(top, #E8B8DE, #BD4CC7);
       background-image: -moz-linear-gradient(top, #E8B8DE, #BD4CC7);
@@ -71,7 +71,7 @@
       cursor: pointer;
       text-align: center;
   }
-  .BUTTON_LTR:hover {
+  .contact-me-button:hover {
     border: solid #FFAE00 1px;
     background: #D01ECA;
     background-image: -webkit-linear-gradient(top, #D01ECA, #F6D63D);
