@@ -14,6 +14,9 @@
       width: 50%;
       margin: 80px auto auto auto;
     }
+    .nevbar {
+      padding: 0;
+    }
     a:link {
       color: grey;
     }
@@ -56,18 +59,18 @@
       background-image: -ms-linear-gradient(top, #E8B8DE, #BD4CC7);
       background-image: -o-linear-gradient(top, #E8B8DE, #BD4CC7);
       background-image: -webkit-gradient(to bottom, #E8B8DE, #BD4CC7);
-      -webkit-border-radius: 10px;
-      -moz-border-radius: 10px;
-      border-radius: 10px;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      border-radius: 5px;
       color: #FFFFFF;
       font-family: Tahoma;
-      font-size: 30px;
+      font-size: 15px;
       font-weight: 100;
-      padding: 30px;
-      -webkit-box-shadow: 1px 1px 10px 0 #000000;
-      -moz-box-shadow: 1px 1px 10px 0 #000000;
+      padding: 15px;
+      -webkit-box-shadow: 1px 1px 5px 0 #000000;
+      -moz-box-shadow: 1px 1px 5px 0 #000000;
       box-shadow: 1px 1px 20px 0 #000000;
-      text-shadow: 1px 1px 10px #000000;
+      text-shadow: 1px 1px 5px #000000;
       border: solid #337FED 1px;
       text-decoration: none;
       display: inline-block;
@@ -82,9 +85,9 @@
     background-image: -ms-linear-gradient(top, #D01ECA, #F6D63D);
     background-image: -o-linear-gradient(top, #D01ECA, #F6D63D);
     background-image: -webkit-gradient(to bottom, #D01ECA, #F6D63D);
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
     text-decoration: none;
   }
   table {
