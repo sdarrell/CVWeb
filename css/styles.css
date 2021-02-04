@@ -5,10 +5,13 @@
       border-width: 0 0 9px;
       width: 10%;
     }
+    body {
+      background-color: #222831;
+    }
     .main {
       background-color: #222831;
       color: white;
-      width: 100%;
+      width: 50%;
       margin: 80px auto auto auto;
     }
     a:link {
@@ -18,7 +21,7 @@
       color: #ffb4b4;
     }
     a:hover {
-      color: hotpink;
+      color: grey;
     }
     .cv-title {
       font-family: "Sofia", sans-serif;
