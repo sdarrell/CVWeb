@@ -24,7 +24,7 @@
       color: #ffb4b4;
     }
     a:hover {
-      color: grey;
+      color: white;
     }
     .cv-title {
       font-family: "Sofia", sans-serif;
@@ -88,7 +88,11 @@
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
+    color: #FFFFFF;
     text-decoration: none;
+  }
+  .contact-me-form {
+    align-items: center;
   }
   table {
     align-items: center;
